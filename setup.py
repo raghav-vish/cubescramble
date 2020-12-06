@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
 	name='cubescramble',
-	version='0.0.1',
+	version='0.0.2',
 	description="Generate scrambles for Rubik's cube and other twisty puzzles",
 	py_modules=["scramble"],
 	author="Raghav Vishwanath",
