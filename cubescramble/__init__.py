@@ -1,0 +1,1 @@
+from cubescramble.scrampe import scramble2, scramble3, scramble4, scramble5
