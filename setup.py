@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
 	long_description = fh.read()
 
 setup(
-	name='cubescramble',
-	version='0.0.2',
+	name='cubescrambler',
+	version='0.0.1',
 	description="Generate scrambles for Rubik's cube and other twisty puzzles",
 	py_modules=["scramble"],
 	author="Raghav Vishwanath",
